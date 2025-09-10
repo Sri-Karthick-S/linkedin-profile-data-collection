@@ -1,0 +1,1822 @@
+{
+  "joan-elaine-rasmussen": {
+    "success": true,
+    "message": "response retrieved successfully",
+    "data": {
+      "basic_info": {
+        "fullname": "Joan Rasmussen",
+        "first_name": "Joan",
+        "last_name": "Rasmussen",
+        "headline": "Software Engineer",
+        "public_identifier": "joan-elaine-rasmussen",
+        "profile_url": "https://linkedin.com/in/joan-elaine-rasmussen",
+        "profile_picture_url": "",
+        "about": "I am an empathetic and gentle human, a creative thinker, a detail-oriented problem-solver, and am incredibly motivated to make everything that I touch better. As a software engineer, I strive to create engaging and intuitive user experiences, to write clean and organized code that is well-tested, to maintain a focused work flow, and to foster meaningful work relationships.\n\nIn my previous experiences as a math student and teacher, as well as a baker and miller, I learned that life is made up of algorithms. Rules give space to creativity. In the same way that theoretical math and sourdough fermentation became cozy houses, I am finding that software engineering is a place of challenge and rest.\n\nIf you'd like to be in touch, then please email me: raz.joan@gmail.com\nAlso, see my personal portfolio: www.joanrasmussen.dev",
+        "location": {
+          "country": "United States",
+          "city": "Boulder, Colorado",
+          "full": "Boulder, Colorado, United States",
+          "country_code": "US"
+        },
+        "creator_hashtags": [],
+        "is_creator": false,
+        "is_influencer": false,
+        "is_premium": false,
+        "created_timestamp": 1452364404279,
+        "show_follower_count": false,
+        "background_picture_url": "https://media.licdn.com/dms/image/v2/C5616AQF5q1vn3A8kpA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1627315638579?e=1760572800&v=beta&t=In8MVpeFb5Aa_kNOaltq-KTIL5qPe2-ZaBuwTO-2ubk",
+        "urn": "ACoAABwqWe8Bzj9q6Dfeqhg2elMQ7MqEuUBKf_s",
+        "follower_count": 309,
+        "connection_count": 307,
+        "current_company": "The Trade Desk",
+        "current_company_urn": "892001",
+        "current_company_url": "https://www.linkedin.com/company/the-trade-desk",
+        "email": "raz.joan@gmail.com"
+      },
+      "experience": [
+        {
+          "title": "Frontend Software Engineer II",
+          "company": "The Trade Desk",
+          "location": "Hybrid",
+          "duration": "Apr 2024 - Present · 1 yr 6 mos",
+          "start_date": {
+            "year": 2024,
+            "month": "Apr"
+          },
+          "is_current": true,
+          "company_linkedin_url": "https://www.linkedin.com/company/892001/",
+          "company_logo_url": "https://media.licdn.com/dms/image/v2/D4E0BAQEiipi1eIta9A/company-logo_400_400/company-logo_400_400/0/1712686752136/the_trade_desk_logo?e=1760572800&v=beta&t=uk6snvtk5jr9p7cmbgiw2jkv70vcRAKZnuQXaaJkxYI",
+          "employment_type": "Full-time",
+          "company_id": "892001"
+        },
+        {
+          "title": "Software Engineer I",
+          "company": "The Trade Desk",
+          "location": "Boulder, Colorado, United States",
+          "description": "Tech: React, Typescript, C#",
+          "duration": "Jul 2022 - Apr 2024 · 1 yr 10 mos",
+          "start_date": {
+            "year": 2022,
+            "month": "Jul"
+          },
+          "end_date": {
+            "year": 2024,
+            "month": "Apr"
+          },
+          "is_current": false,
+          "company_linkedin_url": "https://www.linkedin.com/company/892001/",
+          "company_logo_url": "https://media.licdn.com/dms/image/v2/D4E0BAQEiipi1eIta9A/company-logo_400_400/company-logo_400_400/0/1712686752136/the_trade_desk_logo?e=1760572800&v=beta&t=uk6snvtk5jr9p7cmbgiw2jkv70vcRAKZnuQXaaJkxYI",
+          "employment_type": "Full-time",
+          "company_id": "892001"
+        },
+        {
+          "title": "Junior Software Engineer",
+          "company": "SumUp",
+          "location": "Boulder, Colorado, United States",
+          "description": "Tech: Next.js, React, Typescript, Ant Design\n- Helped to plan and successfully built a greenfield project.\n- Owned the associated stories end-to-end.\n- Provided full test coverage for the components.",
+          "duration": "Apr 2022 - Jun 2022 · 3 mos",
+          "start_date": {
+            "year": 2022,
+            "month": "Apr"
+          },
+          "end_date": {
+            "year": 2022,
+            "month": "Jun"
+          },
+          "is_current": false,
+          "company_linkedin_url": "https://www.linkedin.com/company/2619512/",
+          "company_logo_url": "https://media.licdn.com/dms/image/v2/C4D0BAQFKTfHAXegsGQ/company-logo_400_400/company-logo_400_400/0/1630531414092/sumup_logo?e=1760572800&v=beta&t=hoqY707a10ZZ108GPQosglbvyjHUc1evLBCbDmx0RXs",
+          "company_id": "2619512"
+        },
+        {
+          "title": "Student",
+          "company": "Turing",
+          "location": "Denver, Colorado, United States",
+          "description": "An intensive, seven-month certificate program that teaches the fundamentals of web design and development. In particular, the Front-End program focuses on building 'client-side' applications where code is executed in the browser. Students cultivate both problem-solving and professional skills, such as, communication, empathy, grit, discipline, planning, and research, in more than a dozen projects, which are sometimes solo, and at other times, collaborative.",
+          "duration": "Aug 2021 - Mar 2022 · 8 mos",
+          "start_date": {
+            "year": 2021,
+            "month": "Aug"
+          },
+          "end_date": {
+            "year": 2022,
+            "month": "Mar"
+          },
+          "is_current": false,
+          "company_linkedin_url": "https://www.linkedin.com/company/3805597/",
+          "company_logo_url": "https://media.licdn.com/dms/image/v2/C4E0BAQET8fJiAvWTDA/company-logo_400_400/company-logo_400_400/0/1631347074531?e=1760572800&v=beta&t=sKkr5N1eoV1ERciswS_h0LkfDxJJZHWbIlvhd24Ukms",
+          "employment_type": "School of Software & Design",
+          "company_id": "3805597"
+        },
+        {
+          "title": "Mill Manager",
+          "company": "Moxie Bread Co",
+          "location": "Louisville, CO",
+          "description": "An independent bakery where choices are entirely guided by a desire to nourish our neighbors and foster community. The goal at the mill is to support local and regional farmers who use organic and regenerative farming practices and to provide better access to stone ground, whole grain flours from known sources to local restaurants, bakeries, and food makers. Community not commodity!\n\n- Co-founded a non-profit flour mill for the bakery. Trained and supervised 3 assistants.\n- Designed over 40 branding elements and learning resources. Researched and wrote operations and safety manuals.\n- Built 35 new customer accounts. Fostered strong farmer relationships and purchased 100,000 lbs of local grain.",
+          "duration": "May 2020 - Jul 2021 · 1 yr 3 mos",
+          "start_date": {
+            "year": 2020,
+            "month": "May"
+          },
+          "end_date": {
+            "year": 2021,
+            "month": "Jul"
+          },
+          "is_current": false,
+          "company_linkedin_url": "https://www.linkedin.com/company/62166755/",
+          "company_logo_url": "https://media.licdn.com/dms/image/v2/C4E0BAQEKPWxfzrlVGg/company-logo_400_400/company-logo_400_400/0/1633537835422/moxie_bread_co_logo?e=1760572800&v=beta&t=M2T-bPyZVht-p0eqzW9lpEpM-mRhYFRd7kX_g7fQRHI",
+          "employment_type": "Full-time",
+          "company_id": "62166755"
+        },
+        {
+          "title": "Bread & Pastry Baker",
+          "company": "Moxie Bread Co",
+          "location": "Louisville, Colorado, United States",
+          "description": "- Developed 4 recipes that became menu items. Mixed, shaped, and baked over 75,000 loaves of sourdough bread.\n- Researched, designed, and taught an all-day (8hr) sourdough bread class 5 times in the year before the pandemic.",
+          "duration": "Aug 2017 - May 2020 · 2 yrs 10 mos",
+          "start_date": {
+            "year": 2017,
+            "month": "Aug"
+          },
+          "end_date": {
+            "year": 2020,
+            "month": "May"
+          },
+          "is_current": false,
+          "company_linkedin_url": "https://www.linkedin.com/company/62166755/",
+          "company_logo_url": "https://media.licdn.com/dms/image/v2/C4E0BAQEKPWxfzrlVGg/company-logo_400_400/company-logo_400_400/0/1633537835422/moxie_bread_co_logo?e=1760572800&v=beta&t=M2T-bPyZVht-p0eqzW9lpEpM-mRhYFRd7kX_g7fQRHI",
+          "employment_type": "Full-time",
+          "company_id": "62166755"
+        },
+        {
+          "title": "Artisan Bread Baker",
+          "company": "Babette's",
+          "location": "Denver, CO",
+          "description": "Babette's Bakery and Marczyk Fine Foods are local Denver food makers, each with their own cult-following. Both bakeries make artisan sourdough breads and a wide variety of viennoiseries, cookies, and cakes.\n\n- Worked collaboratively to meet daily production numbers and standards.\n- Learned new skills and techniques within the bread baking process.",
+          "duration": "Jul 2016 - Aug 2017 · 1 yr 2 mos",
+          "start_date": {
+            "year": 2016,
+            "month": "Jul"
+          },
+          "end_date": {
+            "year": 2017,
+            "month": "Aug"
+          },
+          "is_current": false,
+          "company_linkedin_url": "https://www.linkedin.com/search/results/all/?keywords=Babette%27s+Bakery+%26+Marczyk+Fine+Foods",
+          "employment_type": "Bakery & Marczyk Fine Foods"
+        }
+      ],
+      "education": [
+        {
+          "school": "Turing School of Software & Design",
+          "degree": "Front-End Engineering Certificate, Computer Software Engineering",
+          "degree_name": "Front-End Engineering Certificate",
+          "field_of_study": "Computer Software Engineering",
+          "duration": "Aug 2021 - Mar 2022",
+          "school_linkedin_url": "https://www.linkedin.com/company/3805597/",
+          "school_logo_url": "https://media.licdn.com/dms/image/v2/C4E0BAQET8fJiAvWTDA/company-logo_400_400/company-logo_400_400/0/1631347074531?e=1760572800&v=beta&t=sKkr5N1eoV1ERciswS_h0LkfDxJJZHWbIlvhd24Ukms",
+          "start_date": {
+            "year": 2021,
+            "month": "Aug"
+          },
+          "end_date": {
+            "year": 2022,
+            "month": "Mar"
+          },
+          "school_id": "3805597"
+        },
+        {
+          "school": "Louisiana Tech University",
+          "degree": "Master’s Degree, Mathematics and Statistics",
+          "degree_name": "Master’s Degree",
+          "field_of_study": "Mathematics and Statistics",
+          "duration": "2010 - 2012",
+          "school_linkedin_url": "https://www.linkedin.com/company/16602/",
+          "school_logo_url": "https://media.licdn.com/dms/image/v2/C4D0BAQE7wa5ipR1uwA/company-logo_400_400/company-logo_400_400/0/1641845315421/louisiana_tech_university_logo?e=1760572800&v=beta&t=mauVEzmKvyBrXzj7PTVlsBoNBiOMF3gwcHUNTTmQhXM",
+          "start_date": {
+            "year": 2010
+          },
+          "end_date": {
+            "year": 2012
+          },
+          "school_id": "16602"
+        }
+      ]
+    }
+  },
+  "griffinmoyer": {
+    "success": true,
+    "message": "response retrieved successfully",
+    "data": {
+      "basic_info": {
+        "fullname": "Griffin Moyer",
+        "first_name": "Griffin",
+        "last_name": "Moyer",
+        "headline": "Junior Software Engineer | Full Stack, APIs, Python, Angular, C#, +",
+        "public_identifier": "griffinmoyer",
+        "profile_url": "https://linkedin.com/in/griffinmoyer",
+        "profile_picture_url": "https://media.licdn.com/dms/image/v2/D5603AQFxmL43l_8-aQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1727104920330?e=1760572800&v=beta&t=YeRDqe3a9QIESzMEcuEwYo13wnRe6j0gq2_6nDtYlB4",
+        "about": "I am currently working at Sherpa6 as a Junior Software Engineer developing full stack applications with Go and Angular. I have worked for the US Air Force developing a full stack workflow application, and for Golden Software, designing automated regression tests. I am fascinated by Human Centered Design and Machine Learning, and am the lead developer on a action roguelike video game I am developing in my free time. I love the outdoors, and when I am not working on coding a game or automation, you will find me outside climbing, hiking, biking, or snowboarding. Check out my website to see what I am up to! https://gmoyer.github.io/web/projects",
+        "location": {
+          "country": "United States",
+          "city": "Golden, Colorado",
+          "full": "Golden, Colorado, United States",
+          "country_code": "US"
+        },
+        "creator_hashtags": [],
+        "is_creator": false,
+        "is_influencer": false,
+        "is_premium": false,
+        "created_timestamp": 1654039028992,
+        "show_follower_count": false,
+        "background_picture_url": "https://media.licdn.com/dms/image/v2/D5616AQF0RdPLoTGMjg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1696971054116?e=1760572800&v=beta&t=eZyvdNM9d9G4fvkpWvzErCh-jq0GZOFljGrrVUYieM8",
+        "urn": "ACoAADvnEKYBxaMHFGNuMh0np8y2m-PoJIzP2IU",
+        "follower_count": 169,
+        "connection_count": 168,
+        "current_company": "Sherpa 6, Inc.",
+        "current_company_urn": "28178436",
+        "current_company_url": "https://www.linkedin.com/company/sherpa-6-inc",
+        "email": null
+      },
+      "experience": [
+        {
+          "title": "Junior Software Engineer",
+          "company": "Sherpa 6, Inc.",
+          "duration": "Jun 2025 - Present · 4 mos",
+          "start_date": {
+            "year": 2025,
+            "month": "Jun"
+          },
+          "is_current": true,
+          "company_linkedin_url": "https://www.linkedin.com/company/28178436/",
+          "company_logo_url": "https://media.licdn.com/dms/image/v2/C4D0BAQHR2oci-Ecu1A/company-logo_400_400/company-logo_400_400/0/1630565808202/sherpa_6_inc_logo?e=1760572800&v=beta&t=PRcgGLSL-qXGl1u2QrnonSx1590Fp9ErMdjyxhK-9gA",
+          "company_id": "28178436"
+        },
+        {
+          "title": "Software Engineer Intern",
+          "company": "Sherpa 6, Inc.",
+          "location": "Hybrid",
+          "duration": "May 2024 - Jun 2025 · 1 yr 2 mos",
+          "start_date": {
+            "year": 2024,
+            "month": "May"
+          },
+          "end_date": {
+            "year": 2025,
+            "month": "Jun"
+          },
+          "is_current": false,
+          "company_linkedin_url": "https://www.linkedin.com/company/28178436/",
+          "company_logo_url": "https://media.licdn.com/dms/image/v2/C4D0BAQHR2oci-Ecu1A/company-logo_400_400/company-logo_400_400/0/1630565808202/sherpa_6_inc_logo?e=1760572800&v=beta&t=PRcgGLSL-qXGl1u2QrnonSx1590Fp9ErMdjyxhK-9gA",
+          "company_id": "28178436"
+        },
+        {
+          "title": "Computer Science Grader",
+          "company": "Western",
+          "location": "Gunnison, Colorado, United States",
+          "description": "- Grade students for Computer Science I (CS190) and Systems Programming in C (CS370)\n- Develop automated grading systems\n- Develop cheating detection algorithm in Python\n- Provide personalized feedback for students",
+          "duration": "Aug 2023 - May 2024 · 10 mos",
+          "start_date": {
+            "year": 2023,
+            "month": "Aug"
+          },
+          "end_date": {
+            "year": 2024,
+            "month": "May"
+          },
+          "is_current": false,
+          "company_linkedin_url": "https://www.linkedin.com/company/101717640/",
+          "company_logo_url": "https://media.licdn.com/dms/image/v2/D560BAQGKy4Gm2Xnknw/company-logo_400_400/company-logo_400_400/0/1736983643331/western_colorado_university_mcs_logo?e=1760572800&v=beta&t=S1M3vVjhOzZR2-YBiFJkWQ0vXlzU609wKhGAggEPaE0",
+          "employment_type": "Colorado University Math and Computer Science Department",
+          "location_type": "Hybrid",
+          "skills": [
+            "Python (Programming Language)",
+            "Time Management"
+          ],
+          "company_id": "101717640",
+          "skills_url": "https://www.linkedin.com/in/griffinmoyer/overlay/urn:li:fsd_profilePosition:(ACoAADvnEKYBxaMHFGNuMh0np8y2m-PoJIzP2IU,2380416414)/skill-associations-details?profileUrn=urn%3Ali%3Afsd_profile%3AACoAADvnEKYBxaMHFGNuMh0np8y2m-PoJIzP2IU"
+        },
+        {
+          "title": "Software Engineer - PCIP",
+          "company": "United",
+          "location": "Peterson Space Force Base",
+          "duration": "May 2023 - Aug 2023 · 4 mos",
+          "start_date": {
+            "year": 2023,
+            "month": "May"
+          },
+          "end_date": {
+            "year": 2023,
+            "month": "Aug"
+          },
+          "is_current": false,
+          "company_linkedin_url": "https://www.linkedin.com/company/157235/",
+          "company_logo_url": "https://media.licdn.com/dms/image/v2/C4E0BAQEiOtYxa4RriA/company-logo_400_400/company-logo_400_400/0/1631346343093?e=1760572800&v=beta&t=5qU3MSbA2u811uXLpgzcpOnuJbaqAXp1ym79Kh29gRM",
+          "employment_type": "States Air Force",
+          "location_type": "On-site",
+          "skills": [
+            ".NET Core",
+            "EF"
+          ],
+          "company_id": "157235",
+          "skills_url": "https://www.linkedin.com/in/griffinmoyer/overlay/urn:li:fsd_profilePosition:(ACoAADvnEKYBxaMHFGNuMh0np8y2m-PoJIzP2IU,2204845042)/skill-associations-details?profileUrn=urn%3Ali%3Afsd_profile%3AACoAADvnEKYBxaMHFGNuMh0np8y2m-PoJIzP2IU"
+        },
+        {
+          "title": "Campaign Intern",
+          "company": "HD38",
+          "duration": "May 2022 - Jul 2022 · 3 mos",
+          "start_date": {
+            "year": 2022,
+            "month": "May"
+          },
+          "end_date": {
+            "year": 2022,
+            "month": "Jul"
+          },
+          "is_current": false,
+          "company_linkedin_url": "https://www.linkedin.com/search/results/all/?keywords=HD38+Colorado+State+House+Representative+David+Ortiz+Campaign+Team",
+          "employment_type": "Colorado State House Representative David Ortiz Campaign Team"
+        },
+        {
+          "title": "Paid Intern",
+          "company": "Jefferson",
+          "location": "645 Parfet St. Lakewood, Colorado 80215",
+          "duration": "Nov 2020 - May 2021 · 7 mos",
+          "start_date": {
+            "year": 2020,
+            "month": "Nov"
+          },
+          "end_date": {
+            "year": 2021,
+            "month": "May"
+          },
+          "is_current": false,
+          "company_linkedin_url": "https://www.linkedin.com/company/2847618/",
+          "company_logo_url": "https://media.licdn.com/dms/image/v2/D4E0BAQFUC4cts3w9qw/company-logo_400_400/company-logo_400_400/0/1719256863316/jefferson_county_public_health_logo?e=1760572800&v=beta&t=t6EFCg_pLKYVosIHly3cYONYiHYfnmPj52M-rIBb4RY",
+          "employment_type": "County Public Health",
+          "company_id": "2847618"
+        }
+      ],
+      "education": [
+        {
+          "school": "University of Colorado Boulder",
+          "degree": "Bachelor of Applied Science - BASc, Computer Science",
+          "degree_name": "Bachelor of Applied Science - BASc",
+          "field_of_study": "Computer Science",
+          "duration": "Aug 2022 - May 2025",
+          "school_linkedin_url": "https://www.linkedin.com/company/3771/",
+          "school_logo_url": "https://media.licdn.com/dms/image/v2/C560BAQGueVr_GgFPZg/company-logo_400_400/company-logo_400_400/0/1631322902142?e=1760572800&v=beta&t=L4PLFVVXJUi6AqNvMOsrYP3IDbBShthwUD_Svs7gDiY",
+          "start_date": {
+            "year": 2022,
+            "month": "Aug"
+          },
+          "end_date": {
+            "year": 2025,
+            "month": "May"
+          },
+          "school_id": "3771"
+        }
+      ]
+    }
+  },
+  "robert-huff8040": {
+    "success": true,
+    "message": "response retrieved successfully",
+    "data": {
+      "basic_info": {
+        "fullname": "Robert Huff",
+        "first_name": "Robert",
+        "last_name": "Huff",
+        "headline": "Junior Software Engineer",
+        "public_identifier": "robert-huff8040",
+        "profile_url": "https://linkedin.com/in/robert-huff8040",
+        "profile_picture_url": "https://media.licdn.com/dms/image/v2/C4D03AQGxEEaLDD4DJQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1581711250781?e=1760572800&v=beta&t=CRS5OUPhJXsRVccEg2SEkAi67hAGiBkHpBEBCwikmv8",
+        "about": "Working remotely has presented its challenges but so far loving my position at Buildium! If you ever want to know more about Launch Academy or the work I do at Buildium feel free to reach out any time.",
+        "location": {
+          "country": "United States",
+          "city": "Boston, Massachusetts",
+          "full": "Boston, Massachusetts, United States",
+          "country_code": "US"
+        },
+        "creator_hashtags": [],
+        "is_creator": false,
+        "is_influencer": false,
+        "is_premium": false,
+        "created_timestamp": 1539875090847,
+        "show_follower_count": false,
+        "background_picture_url": "",
+        "urn": "ACoAACkrI4cBozxB-lz6DrZiTSppCkSN-_1pC9A",
+        "follower_count": 663,
+        "connection_count": 666,
+        "current_company": "Buildium, A RealPage Company",
+        "current_company_urn": "475207",
+        "current_company_url": "https://www.linkedin.com/company/buildium-llc",
+        "email": null
+      },
+      "experience": [
+        {
+          "title": "Junior Software Engineer - Automation",
+          "company": "Buildium",
+          "duration": "Nov 2020 - Present · 4 yrs 11 mos",
+          "start_date": {
+            "year": 2020,
+            "month": "Nov"
+          },
+          "is_current": true,
+          "company_linkedin_url": "https://www.linkedin.com/company/475207/",
+          "company_logo_url": "https://media.licdn.com/dms/image/v2/C560BAQH7hrlNZRHkrw/company-logo_400_400/company-logo_400_400/0/1657030464086/buildium_llc_logo?e=1760572800&v=beta&t=oq2w2KMnKBYwlbsd8Pd1KrR1ATlQX0SDZhqsBnE0ZnI",
+          "company_id": "475207"
+        },
+        {
+          "title": "Software Engineer Intern in Test",
+          "company": "Buildium",
+          "duration": "Mar 2020 - Nov 2020 · 9 mos",
+          "start_date": {
+            "year": 2020,
+            "month": "Mar"
+          },
+          "end_date": {
+            "year": 2020,
+            "month": "Nov"
+          },
+          "is_current": false,
+          "company_linkedin_url": "https://www.linkedin.com/company/475207/",
+          "company_logo_url": "https://media.licdn.com/dms/image/v2/C560BAQH7hrlNZRHkrw/company-logo_400_400/company-logo_400_400/0/1657030464086/buildium_llc_logo?e=1760572800&v=beta&t=oq2w2KMnKBYwlbsd8Pd1KrR1ATlQX0SDZhqsBnE0ZnI",
+          "company_id": "475207"
+        },
+        {
+          "title": "Apprentice Full-Stack Developer",
+          "company": "Launch",
+          "location": "Boston, Massachusetts",
+          "description": "Learned Full-Stack development with Ruby, JavaScript, React and Ruby on Rails. Also adept at pair-programming, TDD and Git work flow. Built a group project with my peers called Parks-and-Reviews. Made an app called WhatToMake that you can use to find recipes with random ingredients in your fridge. ",
+          "duration": "Sep 2019 - Feb 2020 · 6 mos",
+          "start_date": {
+            "year": 2019,
+            "month": "Sep"
+          },
+          "end_date": {
+            "year": 2020,
+            "month": "Feb"
+          },
+          "is_current": false,
+          "company_linkedin_url": "https://www.linkedin.com/company/2865486/",
+          "company_logo_url": "https://media.licdn.com/dms/image/v2/C560BAQGEnHeeaYeYMA/company-logo_400_400/company-logo_400_400/0/1631326376500?e=1760572800&v=beta&t=a1F2XX1udH2x0ceDyCC9eQ6MwpvamUbrC7QxHT944JE",
+          "employment_type": "Academy, Inc",
+          "company_id": "2865486"
+        },
+        {
+          "title": "Quality Control Inspector",
+          "company": "United",
+          "location": "Syracuse, New York Area",
+          "description": "Worked as a triage specialist testing Dennon and Marantz television receivers. Cleaned the outside of the units then plugged them in to test every aspect of the machine, from HDMI plug-ins to internet capabilities.",
+          "duration": "Feb 2019 - Sep 2019 · 8 mos",
+          "start_date": {
+            "year": 2019,
+            "month": "Feb"
+          },
+          "end_date": {
+            "year": 2019,
+            "month": "Sep"
+          },
+          "is_current": false,
+          "company_linkedin_url": "https://www.linkedin.com/company/3297082/",
+          "company_logo_url": "https://media.licdn.com/dms/image/v2/D4E0BAQFyS_CZMrKMZQ/company-logo_400_400/company-logo_400_400/0/1704809749275/united_radio_syracuse_logo?e=1760572800&v=beta&t=jYec38c6hvMWslMYj2vb086G-eF1Q3lod2YB0Mk6su4",
+          "employment_type": "Radio",
+          "company_id": "3297082"
+        },
+        {
+          "title": "Crew Member",
+          "company": "Trader",
+          "location": "Framingham, MA and Syracuse, NY",
+          "description": "Responsibilities included anything from stocking shelves, cleaning, helping customers, and checking customers out at the register.",
+          "duration": "Nov 2016 - Feb 2019 · 2 yrs 4 mos",
+          "start_date": {
+            "year": 2016,
+            "month": "Nov"
+          },
+          "end_date": {
+            "year": 2019,
+            "month": "Feb"
+          },
+          "is_current": false,
+          "company_linkedin_url": "https://www.linkedin.com/company/11823/",
+          "company_logo_url": "https://media.licdn.com/dms/image/v2/C560BAQEoIFQpkfMqxA/company-logo_400_400/company-logo_400_400/0/1630430975054/trader_joes_logo?e=1760572800&v=beta&t=-Dcn8AaAf5jy_3gYbLgrK19ygnR6AmqBplxKyrs7bzU",
+          "employment_type": "Joe's",
+          "company_id": "11823"
+        },
+        {
+          "title": "Resolution Specialist",
+          "company": "CVS Specialty",
+          "location": "Milford, MA",
+          "description": "Started as a PSR taking inbound calls to refill medications but over time entered prescriptions and handled insurance resolution during my time there. Insurance resolution involved communication between patients, doctors offices, insurance companies and co-payment programs to ensure the patients got their medications and saved money where possible.",
+          "duration": "Oct 2014 - Nov 2016 · 2 yrs 2 mos",
+          "start_date": {
+            "year": 2014,
+            "month": "Oct"
+          },
+          "end_date": {
+            "year": 2016,
+            "month": "Nov"
+          },
+          "is_current": false,
+          "company_linkedin_url": "https://www.linkedin.com/company/1756730/",
+          "company_logo_url": "https://media.licdn.com/dms/image/v2/D4E0BAQGFwIJK3B9PvQ/company-logo_400_400/company-logo_400_400/0/1685983880873/caremark_specialty_pharmacy_logo?e=1760572800&v=beta&t=67zWpsD5iVMvIiunup7Pu5e0j4TRdh3nAG8S-CgWDPg",
+          "company_id": "1756730"
+        }
+      ],
+      "education": [
+        {
+          "school": "Milford High School",
+          "degree": "High School Diploma",
+          "degree_name": "High School Diploma",
+          "duration": "2004 - 2008",
+          "school_linkedin_url": "https://www.linkedin.com/company/33309586/",
+          "activities": "Track and Field, Football, Baseball, Basketball",
+          "school_logo_url": "https://media.licdn.com/dms/image/v2/C4E0BAQGgDd2qGgrijQ/company-logo_400_400/company-logo_400_400/0/1630583507472?e=1760572800&v=beta&t=M7kK3KzJbtInzn-ZR8LamqsXEZev3OAzNHWNhy4_KiM",
+          "start_date": {
+            "year": 2004
+          },
+          "end_date": {
+            "year": 2008
+          },
+          "school_id": "33309586"
+        }
+      ],
+      "projects": [
+        {
+          "name": "WhatToMake",
+          "description": "An app where you can input random ingredients from your fridge and get recipes that have those ingredients. Then rate and review them!",
+          "associated_with": "Launch Academy, Inc",
+          "is_current": false
+        },
+        {
+          "name": "Parks-and-Reviews",
+          "description": "An app where you can review national parks and upvote/downvote other people reviews",
+          "associated_with": "Launch Academy, Inc",
+          "is_current": false
+        }
+      ]
+    }
+  },
+  "victoria-anastasia-bowen": {
+    "success": true,
+    "message": "response retrieved successfully",
+    "data": {
+      "basic_info": {
+        "fullname": "Victoria Bowen",
+        "first_name": "Victoria",
+        "last_name": "Bowen",
+        "headline": "Associate Software Engineer at Veeva",
+        "public_identifier": "victoria-anastasia-bowen",
+        "profile_url": "https://linkedin.com/in/victoria-anastasia-bowen",
+        "profile_picture_url": "https://media.licdn.com/dms/image/v2/D4D03AQH9FxVDCker8w/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1692897609743?e=1760572800&v=beta&t=ehmmQjE_GpJzMkuP8A4ICuQ7HuvaYOJrpBBmAXV9ga8",
+        "about": "I am currently a fourth year at Northeastern University in Boston, Massachusetts. I am pursuing a Bachelor of Science degree in Computer Science, and I am expected to graduate in 2023. I have grown to love computer science because it enables me to create software that has a positive impact in the lives of others. Through my personal projects and internship experience, I have developed a strong interest in designing and developing applications with the end user experience in mind. I look forward to expanding my skillset and my passion for computer science through co-op opportunities!",
+        "location": {
+          "country": "United States",
+          "city": "Greater Boston",
+          "full": "Greater Boston",
+          "country_code": "US"
+        },
+        "creator_hashtags": [],
+        "is_creator": false,
+        "is_influencer": false,
+        "is_premium": false,
+        "created_timestamp": 1575676761404,
+        "show_follower_count": false,
+        "background_picture_url": "https://media.licdn.com/dms/image/v2/C4D16AQEmumYxvBLskg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1602856656525?e=1760572800&v=beta&t=Fel-TiucANblP6dH8OUrqrvZa8HNBFrSchfL2GP9BMA",
+        "urn": "ACoAAC5Uh5gBRd1NuJwbuPwVqDuLFOu0q4yeybQ",
+        "follower_count": 633,
+        "connection_count": 626,
+        "current_company": "Veeva Systems",
+        "current_company_urn": "402048",
+        "current_company_url": "https://www.linkedin.com/company/veeva-systems",
+        "email": null
+      },
+      "experience": [
+        {
+          "title": "Software Engineer",
+          "company": "Veeva",
+          "location": "Boston, Massachusetts, United States",
+          "duration": "Aug 2023 - Present · 2 yrs 2 mos",
+          "start_date": {
+            "year": 2023,
+            "month": "Aug"
+          },
+          "is_current": true,
+          "company_linkedin_url": "https://www.linkedin.com/company/402048/",
+          "company_logo_url": "https://media.licdn.com/dms/image/v2/C4E0BAQHW29Wyz9Q11w/company-logo_400_400/company-logo_400_400/0/1631340331617?e=1760572800&v=beta&t=SnvzU-AslKeaoNUV43zT0V2SHRyYQPnXxRuCXJ_FViU",
+          "employment_type": "Systems",
+          "company_id": "402048"
+        },
+        {
+          "title": "Software Engineering and DevOps Co-op",
+          "company": "Outcomes4Me",
+          "location": "Boston, Massachusetts, United States",
+          "description": "Throughout my time at Outcomes4Me, I had the opportunity to work in both backend development and DevOps. I developed API endpoints, through the use of TypeScript, Iterable webhooks, and a Redis store, for the recording, viewing, and modifying of user notifications. As part of my DevOps responsibilities, I configured AWS infrastructure through the use of Terraform and implemented application monitoring with Datadog for API, mobile, and web applications. When I modified existing processes, I also updated documentation and distributed it to engineers.",
+          "duration": "Jul 2022 - Dec 2022 · 6 mos",
+          "start_date": {
+            "year": 2022,
+            "month": "Jul"
+          },
+          "end_date": {
+            "year": 2022,
+            "month": "Dec"
+          },
+          "is_current": false,
+          "company_linkedin_url": "https://www.linkedin.com/company/11147087/",
+          "company_logo_url": "https://media.licdn.com/dms/image/v2/C4E0BAQGmV1kDdfrXiA/company-logo_400_400/company-logo_400_400/0/1667868815114/outcomes4me_logo?e=1760572800&v=beta&t=0FBj_KJqlgrcJbPj4tKoE7sJD8tqDhO4cUuPdL6hUTc",
+          "company_id": "11147087"
+        },
+        {
+          "title": "Tech Consulting Executive Committee",
+          "company": "TAMID at Northeastern ",
+          "location": "Boston, Massachusetts, United States",
+          "description": "As a member of TAMID at Northeastern, I served on the tech consulting executive committee as the foundations lead. As the tech consulting foundations lead, I crafted an education curriculum for future software developers involved in the tech consulting track. Throughout the semester, I co-authored a textbook which will serve as an introductory learning resource for the software developers. The textbook includes introductory chapters and resources covering the following topics: user interface\ndiagrams, web development, JavaScript, frameworks, version control, databases, and APIs.",
+          "duration": "Aug 2021 - Dec 2021 · 5 mos",
+          "start_date": {
+            "year": 2021,
+            "month": "Aug"
+          },
+          "end_date": {
+            "year": 2021,
+            "month": "Dec"
+          },
+          "is_current": false,
+          "company_linkedin_url": "https://www.linkedin.com/company/35501724/",
+          "company_logo_url": "https://media.licdn.com/dms/image/v2/C4E0BAQEJLPflm50QSA/company-logo_400_400/company-logo_400_400/0/1630358555379/tamid_at_northeastern_logo?e=1760572800&v=beta&t=vgAwIdsoBA8mMSkbTdfv7A_fapxb1T2EpRx7s3bLCSE",
+          "company_id": "35501724"
+        },
+        {
+          "title": "Natural Horsemanship Instructor and Camp Counselor",
+          "company": "Fernwood",
+          "location": "Harrison, Maine, United States",
+          "description": "Over the summer, I worked as an instructor of natural horsemanship at Fernwood Cove, a sleep-away camp for girls in Harrison, Maine. Alongside two other instructors, I taught lessons five days a week to girls ranging from second to ninth graders. Each day we had six lessons that were each about an hour long. Under my responsibilities as an instructor, I also contributed to all of the barn chores, including feeding the horses, cleaning the stalls, and organizing equipment. In addition to my instructor responsibilities, I also helped out with other aspects of camp, such as bunk life.",
+          "duration": "Jun 2021 - Aug 2021 · 3 mos",
+          "start_date": {
+            "year": 2021,
+            "month": "Jun"
+          },
+          "end_date": {
+            "year": 2021,
+            "month": "Aug"
+          },
+          "is_current": false,
+          "company_linkedin_url": "https://www.linkedin.com/company/4017625/",
+          "company_logo_url": "https://media.licdn.com/dms/image/v2/C4E0BAQEQHCOI8O6B1w/company-logo_400_400/company-logo_400_400/0/1631373135341?e=1760572800&v=beta&t=zpju1NsQyU3HnkbJnEYRI34_WURndoP0wXeYXqMtsWc",
+          "employment_type": "Cove",
+          "company_id": "4017625"
+        },
+        {
+          "title": "Software Development Co-op",
+          "company": "Chewy",
+          "description": "Designed and developed the frontend and backend of a form building platform with Vue.js, Spring Boot, and PostgreSQL that employees will use for the creation and completion of internal forms. In the design phase of the application, I expanded my user interface design skills through the completion of user interface mockups and prototypes with Figma. Throughout the design and development of the application, I collaborated regularly with one other team member.",
+          "duration": "Jan 2021 - May 2021 · 5 mos",
+          "start_date": {
+            "year": 2021,
+            "month": "Jan"
+          },
+          "end_date": {
+            "year": 2021,
+            "month": "May"
+          },
+          "is_current": false,
+          "company_linkedin_url": "https://www.linkedin.com/company/2433416/",
+          "company_logo_url": "https://media.licdn.com/dms/image/v2/C4D0BAQGLd0ulL8wFyw/company-logo_400_400-alternative/company-logo_400_400-alternative/0/1630503623613/chewy_com_logo?e=1760572800&v=beta&t=30Df73LIaSMo7By354NX0lQNYphh6IF82nZ1SzlCxvE",
+          "company_id": "2433416"
+        }
+      ],
+      "education": [
+        {
+          "school": "Northeastern University",
+          "degree": "Bachelor's degree, Computer Science",
+          "degree_name": "Bachelor's degree",
+          "field_of_study": "Computer Science",
+          "duration": "2019 - 2023",
+          "school_linkedin_url": "https://www.linkedin.com/company/5274/",
+          "description": "I am currently pursuing a Bachelor of Science degree in Computer Science at Northeastern University in Boston, Massachusetts.",
+          "activities": "TAMID, Club Triathlon Team, CHAARG, Circle K",
+          "school_logo_url": "https://media.licdn.com/dms/image/v2/C4D0BAQGwTPCvlTQlvw/company-logo_400_400/company-logo_400_400/0/1630531267482/northeastern_university_logo?e=1760572800&v=beta&t=1N1yRig45T244Hz7wKqP_syfzkMfvBLu3AgaK3hE-eo",
+          "start_date": {
+            "year": 2019
+          },
+          "end_date": {
+            "year": 2023
+          },
+          "school_id": "5274"
+        },
+        {
+          "school": "Massachusetts Academy of Math and Science at WPI",
+          "degree": "High School Diploma",
+          "degree_name": "High School Diploma",
+          "duration": "2017 - 2019",
+          "school_linkedin_url": "https://www.linkedin.com/company/94252168/",
+          "description": "Massachusetts Academy of Math and Science is a junior/senior year high school located in Worcester, Massachusetts. As juniors, we completed advanced coursework at the academy. For senior year, all of our course work was on campus at Worcester Polytechnic Institute, alongside college students.",
+          "activities": "Member of Greenwood Swim Team, Member of Lake Quinsigamond Community Rowing Team, Member of CyberPatriot Team",
+          "school_logo_url": "https://media.licdn.com/dms/image/v2/D4E0BAQECJI3bq9iXtg/company-logo_400_400/company-logo_400_400/0/1684096742784?e=1760572800&v=beta&t=OAzCk0jcrO8rN5I_d6dTUYv_44ghlTT9oYA6SyYWbpM",
+          "start_date": {
+            "year": 2017
+          },
+          "end_date": {
+            "year": 2019
+          },
+          "school_id": "94252168"
+        }
+      ],
+      "projects": [
+        {
+          "name": "BowenBowen PC Informational Website",
+          "description": "I am in the process of designing an informational website for the law firm BowenBowen PC through the use of HTML/CSS.",
+          "is_current": false
+        },
+        {
+          "name": "Recipes for Relatives",
+          "description": "Recipes for Relatives is an online application that I coded with HTML/CSS and JavaScript. The goal of this application is to enable a group of relatives and friends to share their favorite recipes. ",
+          "is_current": false
+        }
+      ]
+    }
+  },
+  "april-breedlove": {
+    "success": true,
+    "message": "response retrieved successfully",
+    "data": {
+      "basic_info": {
+        "fullname": "April Breedlove",
+        "first_name": "April",
+        "last_name": "Breedlove",
+        "headline": "Associate Software Engineer at Disney",
+        "public_identifier": "april-breedlove",
+        "profile_url": "https://linkedin.com/in/april-breedlove",
+        "profile_picture_url": "https://media.licdn.com/dms/image/v2/C4E03AQHUxx5PJX5k1w/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1646715889783?e=1760572800&v=beta&t=0RFSmJyZfRCM9iJepoD9-fnrDEbgHMQl14OD2M06h_0",
+        "about": "Hey there 👋 My name is April Breedlove. I am a Software Engineer at The Walt Disney Company ºoº.\n\nMy participation in the Disney Dreamers Academy as both a Dreamer and a mentor as well as my Disney Professional Internship lead me to my full time role as a Software Engineer. My programming skills are primarily in Java 💻. \n\nI have been writing a brand new application that expands the world of technology at Disney. My first launch of this application was in Disneyland for the park's 70th anniversary 🚀. \n\nI am very excited to see how the rest of my journey at Disney unfolds! 🏰 ✨",
+        "location": {
+          "country": "United States",
+          "city": "Orlando, Florida",
+          "full": "Orlando, Florida, United States",
+          "country_code": "US"
+        },
+        "creator_hashtags": [],
+        "is_creator": false,
+        "is_influencer": false,
+        "is_premium": false,
+        "created_timestamp": 1614279578082,
+        "show_follower_count": false,
+        "background_picture_url": "https://media.licdn.com/dms/image/v2/D5616AQFagAymVyjSrw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1696028895779?e=1760572800&v=beta&t=YHjvB1hU6nGJc83e3xnMdlFP4-NV6cIGdK4npNypXY0",
+        "urn": "ACoAADSmJTEBclVmMxeo8o3EyG2QOu1WvyT0l_8",
+        "follower_count": 1369,
+        "connection_count": 1239,
+        "current_company": "The Walt Disney Company",
+        "current_company_urn": "1292",
+        "current_company_url": "https://www.linkedin.com/company/the-walt-disney-company",
+        "email": null
+      },
+      "experience": [
+        {
+          "title": "Associate Software Engineer",
+          "company": "The",
+          "location": "Orlando, Florida, United States",
+          "description": "Associate Software Engineer on the Connected Products team.",
+          "duration": "Jul 2023 - Present · 2 yrs 3 mos",
+          "start_date": {
+            "year": 2023,
+            "month": "Jul"
+          },
+          "is_current": true,
+          "company_linkedin_url": "https://www.linkedin.com/company/1292/",
+          "company_logo_url": "https://media.licdn.com/dms/image/v2/D4E0BAQHScKuaJ_0-WA/company-logo_400_400/company-logo_400_400/0/1712695425017/the_walt_disney_company_logo?e=1760572800&v=beta&t=ix_mA47hIrBF7TJy7ts_9gF1urQsDwbvSVi7-rouDjg",
+          "employment_type": "Walt Disney Company",
+          "company_id": "1292"
+        },
+        {
+          "title": "Finance Coordinator",
+          "company": "Society of Women Engineers",
+          "location": "Marietta, Georgia, United States",
+          "description": "• Finance Coordinator for the Kennesaw State University chapter of Society of Women Engineers\n• Work closely with the treasurer to ensure that the club finances are in order.\n• Communicate with donors to maintain sponsorships and fundraisers.",
+          "duration": "Sep 2021 - May 2023 · 1 yr 9 mos",
+          "start_date": {
+            "year": 2021,
+            "month": "Sep"
+          },
+          "end_date": {
+            "year": 2023,
+            "month": "May"
+          },
+          "is_current": false,
+          "company_linkedin_url": "https://www.linkedin.com/company/20838/",
+          "company_logo_url": "https://media.licdn.com/dms/image/v2/D4E0BAQG8-oklRoY9KA/company-logo_400_400/company-logo_400_400/0/1731704648885/society_of_women_engineers_logo?e=1760572800&v=beta&t=5TaQNJEldPEuCdcEKIbOxGw29-z2cuDEf6D1XXYG-g8",
+          "company_id": "20838"
+        },
+        {
+          "title": "Enrollment Services Center Student Assistant",
+          "company": "Kennesaw",
+          "location": "Marietta, GA",
+          "description": "•Assist guests with questions related to enrollment, registration, and financial aid.\n•Process and file student documents.",
+          "duration": "Aug 2021 - May 2023 · 1 yr 10 mos",
+          "start_date": {
+            "year": 2021,
+            "month": "Aug"
+          },
+          "end_date": {
+            "year": 2023,
+            "month": "May"
+          },
+          "is_current": false,
+          "company_linkedin_url": "https://www.linkedin.com/company/9801/",
+          "company_logo_url": "https://media.licdn.com/dms/image/v2/C4D0BAQHuTnl1ITbe5Q/company-logo_400_400/company-logo_400_400/0/1630567349676/kennesaw_state_university_logo?e=1760572800&v=beta&t=01BpCwe4b97tPqXAdbmsOi6j2uBCJGFW9Bj6LvPC0xE",
+          "employment_type": "State University",
+          "company_id": "9801"
+        },
+        {
+          "title": "Software Engineer Intern",
+          "company": "The",
+          "location": "Orlando, Florida, United States",
+          "description": "•Software Engineering Intern on the Connected Products team.\n•Developed an application to automate a testing process and increase efficiency within my team.\n•Front end development (Typescript and Angular).\n•Back end development (Java, Kinesis, Apache Flink).",
+          "duration": "May 2022 - Aug 2022 · 4 mos",
+          "start_date": {
+            "year": 2022,
+            "month": "May"
+          },
+          "end_date": {
+            "year": 2022,
+            "month": "Aug"
+          },
+          "is_current": false,
+          "company_linkedin_url": "https://www.linkedin.com/company/1292/",
+          "company_logo_url": "https://media.licdn.com/dms/image/v2/D4E0BAQHScKuaJ_0-WA/company-logo_400_400/company-logo_400_400/0/1712695425017/the_walt_disney_company_logo?e=1760572800&v=beta&t=ix_mA47hIrBF7TJy7ts_9gF1urQsDwbvSVi7-rouDjg",
+          "employment_type": "Walt Disney Company",
+          "company_id": "1292"
+        },
+        {
+          "title": "Disney Dreamers Academy Alumni Leader",
+          "company": "The Walt Disney Company",
+          "location": "Orlando, Florida, United States",
+          "description": "•Alumni leader for the 2022 Disney Dreamers Academy.\n•Lead a team of 20 high school students through social media challenges.\n•Provided support for Disney Dreamers in terms of helping them reach their dreams.\n•Participated in various speaking engagements.",
+          "duration": "Mar 2022 - Mar 2022 · 1 mo",
+          "start_date": {
+            "year": 2022,
+            "month": "Mar"
+          },
+          "end_date": {
+            "year": 2022,
+            "month": "Mar"
+          },
+          "is_current": false,
+          "company_linkedin_url": "https://www.linkedin.com/company/1292/",
+          "company_logo_url": "https://media.licdn.com/dms/image/v2/D4E0BAQHScKuaJ_0-WA/company-logo_400_400/company-logo_400_400/0/1712695425017/the_walt_disney_company_logo?e=1760572800&v=beta&t=ix_mA47hIrBF7TJy7ts_9gF1urQsDwbvSVi7-rouDjg",
+          "company_id": "1292"
+        }
+      ],
+      "education": [
+        {
+          "school": "Kennesaw State University",
+          "degree": "Bachelor's degree, Computer Science",
+          "degree_name": "Bachelor's degree",
+          "field_of_study": "Computer Science",
+          "duration": "2021 - 2023",
+          "school_linkedin_url": "https://www.linkedin.com/company/9801/",
+          "description": "•Final GPA: 4.0.\n•Member of the Honors College.",
+          "activities": "Society of Women Engineers, Google Student Developers Club",
+          "school_logo_url": "https://media.licdn.com/dms/image/v2/C4D0BAQHuTnl1ITbe5Q/company-logo_400_400/company-logo_400_400/0/1630567349676/kennesaw_state_university_logo?e=1760572800&v=beta&t=01BpCwe4b97tPqXAdbmsOi6j2uBCJGFW9Bj6LvPC0xE",
+          "start_date": {
+            "year": 2021
+          },
+          "end_date": {
+            "year": 2023
+          },
+          "school_id": "9801"
+        },
+        {
+          "school": "Georgia State University Perimeter College",
+          "degree": "Associate of Science - AS, Computer Science",
+          "degree_name": "Associate of Science - AS",
+          "field_of_study": "Computer Science",
+          "duration": "2019 - 2021",
+          "school_linkedin_url": "https://www.linkedin.com/company/18545/",
+          "description": "• Member of the Honors College. \n• Named to the President's List during every semester. \n• Graduated with Highest Honors (4.0 GPA). ",
+          "activities": "Honors College, Alpharetta Women in Technology (WIT), Phi Theta Kappa Honors Society",
+          "school_logo_url": "https://media.licdn.com/dms/image/v2/C560BAQF9wYzsv8BvqQ/company-logo_400_400/company-logo_400_400/0/1668699638503?e=1760572800&v=beta&t=0pRDb9nU77ouWvFvFJF5-oqm92VHPMr2oPEcKuouutw",
+          "start_date": {
+            "year": 2019
+          },
+          "end_date": {
+            "year": 2021
+          },
+          "school_id": "18545"
+        }
+      ],
+      "projects": [
+        {
+          "name": "Food Pantry Data Collection Application",
+          "description": "•Developing a responsive mobile web application for a local food pantry using JavaScript, React, HTML, and CSS.\n•Streamlining the food pantry’s data collection process for their nearly 500 weekly guests by fully digitizing this task.",
+          "is_current": false
+        },
+        {
+          "name": "GSU Enrollment Updater",
+          "description": "•Created web scraping software via Python, Selenium, and the Pandas Library that automatically updates a spreadsheet with student enrollment data from the Georgia State University Honors College.\n•Reduced the manual time needed to complete this task from 45 minutes to about 30 seconds, a 99% decrease.",
+          "associated_with": "Georgia State University Perimeter College",
+          "is_current": false
+        }
+      ]
+    }
+  },
+  "brett-kessler-b9b47713b": {
+    "success": true,
+    "message": "response retrieved successfully",
+    "data": {
+      "basic_info": {
+        "fullname": "Brett Kessler",
+        "first_name": "Brett",
+        "last_name": "Kessler",
+        "headline": "Associate Software Engineer at Epsilon",
+        "public_identifier": "brett-kessler-b9b47713b",
+        "profile_url": "https://linkedin.com/in/brett-kessler-b9b47713b",
+        "profile_picture_url": "https://media.licdn.com/dms/image/v2/D5603AQF_Au4jAsVMgw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1691088557720?e=1760572800&v=beta&t=Gw3iv1e-tf3wbN1Ms6Ri0b1m-0Yb1dtUeGpcxXApaec",
+        "about": "In an ever-changing and demanding business setting, attaining success requires a performance-driven professional to play an integral role in creating streamlined business environments to maximize operations. As a highly technical professional with extensive experience in software and full stack engineering, I am passionate about utilizing my solid understanding of complex technical concepts to enhance clients interactions and support the sales team in a fast-paced, dynamic environment.\n\nThroughout my years in the industry, I have become a results-oriented professional who focuses on outcome rather than the procedure. I am excellent at identifying the problems’ root cause through problem-solving and analytical thinking skills to prevent issues in the future. My dedication to client or customer success has paved the way to always meet or work with people and provide actionable technical solutions.\n\nOver the course of my career, I have honed my firm work ethic, goal-based mindset, attention to detail, logical problem-solving and decision-making capacity, outstanding prioritization and multitasking aptitude, best practices, and keenness for success. In addition, I have intensified my competence in cooperating with key stakeholders, diversified staff, organizational levels, and internal and external partners to achieve common goals within the allocated timeframes.\n\nI seek to bring with me my analytical skills and vast leadership experience in a fast-paced environment, including my ability to effectively problem-solve, work independently, easily learn complicated processes, resolve difficult issues, and showcase best practices simultaneously. If you share a similar vision, let us connect! You can reach me here or through brettekessler@gmail.com. Looking forward to adding value to you!\n\nExpertise: Software Development, Customer Service Standards, Standard Operating Procedures, Client Relationship Management, Technical Support, Business Requirements Management, Process Improvement, Ticket Resolution, Solutions Selling, Workflow Efficiency, Prompt Engineering Techniques, Project Management, Customer Satisfaction",
+        "location": {
+          "country": "United States",
+          "city": "Chicago, Illinois",
+          "full": "Chicago, Illinois, United States",
+          "country_code": "US"
+        },
+        "creator_hashtags": [],
+        "is_creator": false,
+        "is_influencer": false,
+        "is_premium": true,
+        "created_timestamp": 1495942936502,
+        "show_follower_count": false,
+        "background_picture_url": "https://media.licdn.com/dms/image/v2/C5616AQGD3zLlWh5YeQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1585781938670?e=1760572800&v=beta&t=qpMRVzXNlI8Lls938AkiIpNHmQ8YuyE0QNT-wrWoAi4",
+        "urn": "ACoAACIQDOcB2yeR3prebbuytsTE0QbgEwtI_N0",
+        "follower_count": 766,
+        "connection_count": 765,
+        "current_company": "Epsilon",
+        "current_company_urn": "3776",
+        "current_company_url": "https://www.linkedin.com/company/epsilon",
+        "email": "brettekessler@gmail.com"
+      },
+      "experience": [
+        {
+          "title": "Associate Software Engineer",
+          "company": "Epsilon",
+          "location": "Chicago, Illinois, United States",
+          "description": "Associate Software Engineer – Full Stack Audience Building Team (Dec 2024 – Present)\n\nIn my capacity as an Associate Software Engineer, I leverage industry standards to write a SQL script to reduce the time it takes to verify releases by 75%, including full stack angular engineering to develop multiple applications that the integration team uses to build audiences for clients. Also, I deliver intuitive, error-free user experiences in partnership with product & UX teams to rectify 40+ client-facing issues.\n\nThis role has allowed me to ensure that users can keep track of all changes made by developing a feature to add a notes page to audience change logs. Utilizing Cypress to manage UI components, I reduce the need for manual QA on applications and write full e2e tests.\n\nSite Tagging Team (Sept 2022 – Dec 2024)\nBeing part of the Site Tagging Team, I reduced file sizes by approximately 50% by enhancing system performance and minifying scripts used on client sites. By maintaining data integrity and completeness, I strictly adhered to compliance requirements from GPP, TCF, and GPC.\n\nAdditionally, I interfaced with integration team to understand client needs and develop tailored audience solutions. This involved boosting efficiency by 40% by integrating the latest version of Rhino Script into the overall compilation process. Lastly, I guaranteed accurate responses and cookie tracking by developing a marketing site for the team to test production tags.",
+          "duration": "Sep 2022 - Present · 3 yrs 1 mo",
+          "start_date": {
+            "year": 2022,
+            "month": "Sep"
+          },
+          "is_current": true,
+          "company_linkedin_url": "https://www.linkedin.com/company/3776/",
+          "company_logo_url": "https://media.licdn.com/dms/image/v2/D560BAQHTq28lFWEZTw/company-logo_400_400/company-logo_400_400/0/1722449351277/epsilon_logo?e=1760572800&v=beta&t=FGjEOct_3hHsz4jJ_veAtotsmjA6vttzqsxn38EW5Es",
+          "location_type": "Hybrid",
+          "skills": [
+            "Java",
+            "Angular"
+          ],
+          "company_id": "3776",
+          "skills_url": "https://www.linkedin.com/in/brett-kessler-b9b47713b/overlay/urn:li:fsd_profilePosition:(ACoAACIQDOcB2yeR3prebbuytsTE0QbgEwtI_N0,2037162834)/skill-associations-details?profileUrn=urn%3Ali%3Afsd_profile%3AACoAACIQDOcB2yeR3prebbuytsTE0QbgEwtI_N0"
+        },
+        {
+          "title": "Sustaining Software Engineer Intern",
+          "company": "Tribute",
+          "location": "Middleton, Wisconsin, United States",
+          "description": "As a Sustaining Software Engineer Intern, I productively assisted lead developers in integrating the bug tracking software into their workflow according to standards. I organized meetings with developers and project managers to explain Jira, which created strong communication skills. To improve the bug tracking process, I supported supervisors in conducting a comprehensive gap analysis between Jira instances. I integrated 100+ issues to Jira via Slack integration, direct input in Atlassian, and bulk reporting using CSV files.",
+          "duration": "Jun 2021 - Aug 2021 · 3 mos",
+          "start_date": {
+            "year": 2021,
+            "month": "Jun"
+          },
+          "end_date": {
+            "year": 2021,
+            "month": "Aug"
+          },
+          "is_current": false,
+          "company_linkedin_url": "https://www.linkedin.com/company/67118712/",
+          "company_logo_url": "https://media.licdn.com/dms/image/v2/D560BAQH4qrFpsucjOA/company-logo_400_400/B56ZfB9CCQH8Ac-/0/1751305691692/tributetechnology_logo?e=1760572800&v=beta&t=j3sBsEmX3saBgqA41hrofCMIMeAXVNtp-fttvaQhtlM",
+          "employment_type": "Technology Holdings, LLC",
+          "company_id": "67118712"
+        },
+        {
+          "title": "ML Engineering Intern",
+          "company": "AITS",
+          "duration": "Jun 2020 - Aug 2020 · 3 mos",
+          "start_date": {
+            "year": 2020,
+            "month": "Jun"
+          },
+          "end_date": {
+            "year": 2020,
+            "month": "Aug"
+          },
+          "is_current": false,
+          "company_linkedin_url": "https://www.linkedin.com/company/14561543/",
+          "company_logo_url": "https://media.licdn.com/dms/image/v2/C510BAQHlpFzdCNxcUQ/company-logo_400_400/company-logo_400_400/0/1630612848210?e=1760572800&v=beta&t=eKdo6N5Lz39_NgiWaFIS3umdMdNMnuGSh3HJk0vSWRw",
+          "company_id": "14561543"
+        },
+        {
+          "title": "Host",
+          "company": "BIRD DOG",
+          "location": "Palo Alto, California",
+          "duration": "May 2019 - Aug 2019 · 4 mos",
+          "start_date": {
+            "year": 2019,
+            "month": "May"
+          },
+          "end_date": {
+            "year": 2019,
+            "month": "Aug"
+          },
+          "is_current": false,
+          "company_linkedin_url": "https://www.linkedin.com/search/results/all/?keywords=BIRD+DOG"
+        },
+        {
+          "title": "Host",
+          "company": "Patxi's Pizza",
+          "location": "Palo Alto, California",
+          "duration": "Jun 2018 - Aug 2018 · 3 mos",
+          "start_date": {
+            "year": 2018,
+            "month": "Jun"
+          },
+          "end_date": {
+            "year": 2018,
+            "month": "Aug"
+          },
+          "is_current": false,
+          "company_linkedin_url": "https://www.linkedin.com/company/2656690/"
+        }
+      ],
+      "education": [
+        {
+          "school": "University of Wisconsin-Madison",
+          "degree": "Bachelor's degree, Computer Science",
+          "degree_name": "Bachelor's degree",
+          "field_of_study": "Computer Science",
+          "duration": "2018 - 2022",
+          "school_linkedin_url": "https://www.linkedin.com/company/4099/",
+          "activities": "Alpha Kappa Psi: 2020-2022",
+          "school_logo_url": "https://media.licdn.com/dms/image/v2/C560BAQFyYW54n5mwAw/company-logo_400_400/company-logo_400_400/0/1630601304331/university_of_wisconsin_madison_logo?e=1760572800&v=beta&t=_GEJ3NxgHJWE6fW-3ltTPZiIRu63EHBXIBEWIkOLp1Y",
+          "start_date": {
+            "year": 2018
+          },
+          "end_date": {
+            "year": 2022
+          },
+          "school_id": "4099"
+        }
+      ],
+      "certifications": [
+        {
+          "name": "Python (Basic)",
+          "issuer": "Hacker'",
+          "issued_date": "Issued Sep 2021"
+        }
+      ]
+    }
+  },
+  "annie-nelson-analyst": {
+    "success": true,
+    "message": "response retrieved successfully",
+    "data": {
+      "basic_info": {
+        "fullname": "Annie Nelson",
+        "first_name": "Annie",
+        "last_name": "Nelson",
+        "headline": "Data Analyst | Tableau Consultant | Author of How to Become a Data Analyst",
+        "public_identifier": "annie-nelson-analyst",
+        "profile_url": "https://linkedin.com/in/annie-nelson-analyst",
+        "profile_picture_url": "https://media.licdn.com/dms/image/v2/D4E03AQH35fKY5pN1EQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1683498757936?e=1760572800&v=beta&t=U5v4ZZsRT7FakLZTJYm6kzZq79Uq0LFH3D3cXSvSOgc",
+        "about": "If you're reading this you probably either:\n1. Want a job in data. \n2. Want a friend in data.\n3. Need a data analyst. \n\nIf you're #1, I was you, just one year ago! I've shared how I went from beginner to experienced data professional since the beginning.\n\nIts my goal to create the kind of content a younger version of me would have wanted to consume!\n\n#2, thanks for being here! Feel free to give me a wave. Lets be social!\n\n#3's, hello 👋. If you haven't yet, check out my portfolio site, or my Annie's Analytics company page on here where I offer consulting services.\n\nHeres my story. \n\nIn February of 2022, I decided to learn data analytics for fun. I created a Tik Tok account, and started documenting my journey to learn this new hobby (@anniesanalytics). \n\nVery soon, I realized that every day I was waking up and just wanting to write SQL, build visualizations, learn Python.... Work with data! So, I decided that once I finished graduate school (in Healthcare) in July, I was going to become a data analyst. \n\nAlong the way, I have shared here and on Tik Tok everything I can about what it's like to learn data analytics, and how you can do it for free or at least very cheaply. I've shared about the ups and downs of job searching. I've even shared about how I have built a portfolio, and set myself up as a real analyst. \n\nNow I also do YouTube videos, especially my series where I invite other data analysts to have a coffee chat with me, but we live stream it! We talk about our journeys into data and what our jobs look like now. https://youtube.com/playlist?list=PL3wIL0Blsv2vf8aAjTQXo017YntAXqrZc\n\n\nWant to see my Portfolio as it was when I got my first job in analytics? I left it here in exactly the same state that it was when I got my job in July of 2022 to serve as an example to you, if you are a job seeker now! https://anniesanalytics.wixsite.com/annie-nelson/projects-6 \n\nWant to see my current portfolio I am using now that I have gained some more skills? https://anniesanalytics.carrd.co/\n\nOr the LinkedIn group here: https://www.linkedin.com/groups/12635532\n\nDiscord here! https://discord.com/invite/m9vZKtReFM",
+        "location": {
+          "country": "",
+          "city": "United States",
+          "full": "United States"
+        },
+        "creator_hashtags": [
+          "sql",
+          "python",
+          "tableau",
+          "breakintotech",
+          "dataanalytics"
+        ],
+        "is_creator": true,
+        "is_influencer": true,
+        "is_premium": true,
+        "created_timestamp": 1644248062958,
+        "show_follower_count": true,
+        "background_picture_url": "https://media.licdn.com/dms/image/v2/D4E16AQH33lVjCN_nkw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1684768943026?e=1760572800&v=beta&t=IGUl1CQHuV3Igk0UCGbuHL-ZSD67_CZJt-bWsg3F8TY",
+        "urn": "ACoAADnZ3YkBy1u7g98kWlGTT_RMLO3VeiqzxdM",
+        "follower_count": 119862,
+        "connection_count": 29906,
+        "current_company": "GitLab",
+        "current_company_urn": "5101804",
+        "current_company_url": "https://www.linkedin.com/company/gitlab-com",
+        "email": null
+      },
+      "experience": [
+        {
+          "title": "Senior Data Analyst",
+          "company": "GitLab",
+          "location": "Remote",
+          "duration": "Jul 2025 - Present · 3 mos",
+          "start_date": {
+            "year": 2025,
+            "month": "Jul"
+          },
+          "is_current": true,
+          "company_linkedin_url": "https://www.linkedin.com/company/5101804/",
+          "company_logo_url": "https://media.licdn.com/dms/image/v2/D560BAQEMpW43u_veYQ/company-logo_400_400/company-logo_400_400/0/1707968675381/gitlab_com_logo?e=1760572800&v=beta&t=S0NDCbGyOorkEzg0e19zxCS4vH2U2Db0XRY96tyLU-k",
+          "employment_type": "Full-time",
+          "company_id": "5101804"
+        },
+        {
+          "title": "Data Analyst",
+          "company": "GitLab",
+          "duration": "Aug 2023 - Jul 2025 · 2 yrs",
+          "start_date": {
+            "year": 2023,
+            "month": "Aug"
+          },
+          "end_date": {
+            "year": 2025,
+            "month": "Jul"
+          },
+          "is_current": false,
+          "company_linkedin_url": "https://www.linkedin.com/company/5101804/",
+          "company_logo_url": "https://media.licdn.com/dms/image/v2/D560BAQEMpW43u_veYQ/company-logo_400_400/company-logo_400_400/0/1707968675381/gitlab_com_logo?e=1760572800&v=beta&t=S0NDCbGyOorkEzg0e19zxCS4vH2U2Db0XRY96tyLU-k",
+          "employment_type": "Full-time",
+          "company_id": "5101804"
+        },
+        {
+          "title": "Freelance Data Consultant",
+          "company": "Annie's",
+          "location": "Remote",
+          "description": "Data Analytics Consultant specializing in Tableau providing freelance consulting services, creating interesting conversations around data, and educating others.",
+          "duration": "May 2023 - Present · 2 yrs 5 mos",
+          "start_date": {
+            "year": 2023,
+            "month": "May"
+          },
+          "is_current": true,
+          "company_linkedin_url": "https://www.linkedin.com/company/84965840/",
+          "company_logo_url": "https://media.licdn.com/dms/image/v2/D4E0BAQG9QV94Ke7xEw/company-logo_400_400/company-logo_400_400/0/1686934944963/annie_s_analytics_logo?e=1760572800&v=beta&t=drP9BTSXtCGkxxBPpg8OVkuWRclWuoJTSL41_sRGfhQ",
+          "employment_type": "Analytics",
+          "skills": [
+            "SQL",
+            "Python (Programming Language)"
+          ],
+          "company_id": "84965840",
+          "skills_url": "https://www.linkedin.com/in/annie-nelson-analyst/overlay/urn:li:fsd_profilePosition:(ACoAADnZ3YkBy1u7g98kWlGTT_RMLO3VeiqzxdM,2196558400)/skill-associations-details?profileUrn=urn%3Ali%3Afsd_profile%3AACoAADnZ3YkBy1u7g98kWlGTT_RMLO3VeiqzxdM"
+        },
+        {
+          "title": "Tableau Consultant ",
+          "company": "Zuar",
+          "location": "United States",
+          "duration": "Jul 2022 - Jun 2023 · 1 yr",
+          "start_date": {
+            "year": 2022,
+            "month": "Jul"
+          },
+          "end_date": {
+            "year": 2023,
+            "month": "Jun"
+          },
+          "is_current": false,
+          "company_linkedin_url": "https://www.linkedin.com/company/28653202/",
+          "company_logo_url": "https://media.licdn.com/dms/image/v2/C4D0BAQH2yKA0Owvezw/company-logo_400_400/company-logo_400_400/0/1630546357020/zuar_logo?e=1760572800&v=beta&t=BfsJO7J6eGh7hR49sATiQy9O3GNr1nnFdT4BQE-4qao",
+          "skills": [
+            "SQL",
+            "Extract",
+            "Transform",
+            "Load (ETL)"
+          ],
+          "company_id": "28653202",
+          "skills_url": "https://www.linkedin.com/in/annie-nelson-analyst/overlay/urn:li:fsd_profilePosition:(ACoAADnZ3YkBy1u7g98kWlGTT_RMLO3VeiqzxdM,2005909890)/skill-associations-details?profileUrn=urn%3Ali%3Afsd_profile%3AACoAADnZ3YkBy1u7g98kWlGTT_RMLO3VeiqzxdM"
+        },
+        {
+          "title": "Data Analyst",
+          "company": "Advanced",
+          "duration": "May 2022 - Mar 2023 · 11 mos",
+          "start_date": {
+            "year": 2022,
+            "month": "May"
+          },
+          "end_date": {
+            "year": 2023,
+            "month": "Mar"
+          },
+          "is_current": false,
+          "company_linkedin_url": "https://www.linkedin.com/company/28173709/",
+          "company_logo_url": "https://media.licdn.com/dms/image/v2/C4E0BAQG2EQL6gt-EUw/company-logo_400_400/company-logo_400_400/0/1631365341218?e=1760572800&v=beta&t=SsAC8628LicDfrFlYBEBTYLJkLIJhfkPDTj8pXeIShE",
+          "employment_type": "Radio Mapping - a Tech Open Partnership company",
+          "company_id": "28173709"
+        },
+        {
+          "title": "Data Analyst",
+          "company": "Annie's",
+          "duration": "Jan 2022 - Jul 2022 · 7 mos",
+          "start_date": {
+            "year": 2022,
+            "month": "Jan"
+          },
+          "end_date": {
+            "year": 2022,
+            "month": "Jul"
+          },
+          "is_current": false,
+          "company_linkedin_url": "https://www.linkedin.com/company/84965840/",
+          "company_logo_url": "https://media.licdn.com/dms/image/v2/D4E0BAQG9QV94Ke7xEw/company-logo_400_400/company-logo_400_400/0/1686934944963/annie_s_analytics_logo?e=1760572800&v=beta&t=drP9BTSXtCGkxxBPpg8OVkuWRclWuoJTSL41_sRGfhQ",
+          "employment_type": "Analytics",
+          "company_id": "84965840"
+        }
+      ],
+      "education": [
+        {
+          "school": "Dominican College",
+          "degree": "Masters, Occupational Therapy",
+          "degree_name": "Masters",
+          "field_of_study": "Occupational Therapy",
+          "duration": "Sep 2019 - Aug 2022",
+          "school_linkedin_url": "https://www.linkedin.com/search/results/all/?keywords=Dominican+College",
+          "start_date": {
+            "year": 2019,
+            "month": "Sep"
+          },
+          "end_date": {
+            "year": 2022,
+            "month": "Aug"
+          }
+        },
+        {
+          "school": "University at Albany",
+          "degree": "Bachelor of Arts - BA, Psychology",
+          "degree_name": "Bachelor of Arts - BA",
+          "field_of_study": "Psychology",
+          "duration": "2017",
+          "school_linkedin_url": "https://www.linkedin.com/company/8447/",
+          "school_logo_url": "https://media.licdn.com/dms/image/v2/C4E0BAQEc77zfPeV-wg/company-logo_400_400/company-logo_400_400/0/1663606626402/university_at_albany_logo?e=1760572800&v=beta&t=-4NAcfKMPyX8QYiJHJb_pdK7XqPTQrG26D89b3RILHs",
+          "school_id": "8447"
+        }
+      ],
+      "certifications": [
+        {
+          "name": "Tableau Desktop Specialist",
+          "issuer": "Tableau",
+          "issued_date": "Issued Mar 2023"
+        },
+        {
+          "name": "Maven Hall of Fame",
+          "issuer": "Maven Analytics",
+          "issued_date": "Issued Jan 2023"
+        }
+      ]
+    }
+  },
+  "sid-srivastava-4488721b2": {
+    "success": true,
+    "message": "response retrieved successfully",
+    "data": {
+      "basic_info": {
+        "fullname": "Sid Srivastava",
+        "first_name": "Sid",
+        "last_name": "Srivastava",
+        "headline": "Data Analyst @ PG&E | Data Science @ UC Berkeley",
+        "public_identifier": "sid-srivastava-4488721b2",
+        "profile_url": "https://linkedin.com/in/sid-srivastava-4488721b2",
+        "profile_picture_url": "https://media.licdn.com/dms/image/v2/D5603AQE1TXM5LXKhwg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1718825844540?e=1760572800&v=beta&t=VRuRuTJEEO6VTEdywMdG_KRpHB-DSuW70I3NyqpeiMw",
+        "about": "Data Science graduate from the University of California, Berkeley. Passionate about data science, food, and football.",
+        "location": {
+          "country": "",
+          "city": "United States",
+          "full": "United States"
+        },
+        "creator_hashtags": [],
+        "is_creator": false,
+        "is_influencer": false,
+        "is_premium": true,
+        "created_timestamp": 1594854864990,
+        "show_follower_count": false,
+        "background_picture_url": "",
+        "urn": "ACoAADGbBvgBMTPIFZ7W6zGKUx8RuMivec4RXUI",
+        "follower_count": 2314,
+        "connection_count": 2293,
+        "current_company": "GoldBridge AI",
+        "current_company_urn": "105877971",
+        "current_company_url": "https://www.linkedin.com/company/goldbridge-ai",
+        "email": null
+      },
+      "experience": [
+        {
+          "title": "Product & Growth Lead",
+          "company": "GoldBridge",
+          "location": "San Francisco Bay Area",
+          "duration": "Mar 2024 - Present · 1 yr 7 mos",
+          "start_date": {
+            "year": 2024,
+            "month": "Mar"
+          },
+          "is_current": true,
+          "company_linkedin_url": "https://www.linkedin.com/company/105877971/",
+          "company_logo_url": "https://media.licdn.com/dms/image/v2/D560BAQGOCCwhwm5Lcg/company-logo_400_400/company-logo_400_400/0/1738719334339?e=1760572800&v=beta&t=ti20tY73rZZU1AtIrTR8UCy3-LcniMf4fjXbyVoyUHc",
+          "employment_type": "AI",
+          "location_type": "Remote",
+          "skills": [
+            "Python (Programming Language)",
+            "Jira"
+          ],
+          "company_id": "105877971",
+          "skills_url": "https://www.linkedin.com/in/sid-srivastava-4488721b2/overlay/urn:li:fsd_profilePosition:(ACoAADGbBvgBMTPIFZ7W6zGKUx8RuMivec4RXUI,2569801837)/skill-associations-details?profileUrn=urn%3Ali%3Afsd_profile%3AACoAADGbBvgBMTPIFZ7W6zGKUx8RuMivec4RXUI"
+        },
+        {
+          "title": "Data Analyst",
+          "company": "Pacific",
+          "location": "Oakland, California, United States",
+          "duration": "Mar 2025 - Jul 2025 · 5 mos",
+          "start_date": {
+            "year": 2025,
+            "month": "Mar"
+          },
+          "end_date": {
+            "year": 2025,
+            "month": "Jul"
+          },
+          "is_current": false,
+          "company_linkedin_url": "https://www.linkedin.com/company/3895/",
+          "company_logo_url": "https://media.licdn.com/dms/image/v2/D560BAQEQkq33AoZpkg/company-logo_400_400/company-logo_400_400/0/1728513368903/pacificgasandelectric_logo?e=1760572800&v=beta&t=9ohpIK1_Bn0edaHdsdvv9xi04YdnqcwuIW2EG_9anx0",
+          "employment_type": "Gas and Electric Company",
+          "location_type": "Hybrid",
+          "skills": [
+            "Snowflake",
+            "Power BI"
+          ],
+          "company_id": "3895",
+          "skills_url": "https://www.linkedin.com/in/sid-srivastava-4488721b2/overlay/urn:li:fsd_profilePosition:(ACoAADGbBvgBMTPIFZ7W6zGKUx8RuMivec4RXUI,2673306359)/skill-associations-details?profileUrn=urn%3Ali%3Afsd_profile%3AACoAADGbBvgBMTPIFZ7W6zGKUx8RuMivec4RXUI"
+        },
+        {
+          "title": "Business Intelligence Engineer",
+          "company": "Workiva",
+          "location": "Remote",
+          "duration": "May 2024 - Feb 2025 · 10 mos",
+          "start_date": {
+            "year": 2024,
+            "month": "May"
+          },
+          "end_date": {
+            "year": 2025,
+            "month": "Feb"
+          },
+          "is_current": false,
+          "company_linkedin_url": "https://www.linkedin.com/company/732400/",
+          "company_logo_url": "https://media.licdn.com/dms/image/v2/C560BAQHGtsgiZOVMzQ/company-logo_400_400/company-logo_400_400/0/1630649270662/workiva_logo?e=1760572800&v=beta&t=snRfnTPWEGV2n8z5TWIY75mM91-6k2zf4p9fzyyXjSY",
+          "skills": [
+            "DBT",
+            "Amazon Web Services (AWS)"
+          ],
+          "company_id": "732400",
+          "skills_url": "https://www.linkedin.com/in/sid-srivastava-4488721b2/overlay/urn:li:fsd_profilePosition:(ACoAADGbBvgBMTPIFZ7W6zGKUx8RuMivec4RXUI,2506597945)/skill-associations-details?profileUrn=urn%3Ali%3Afsd_profile%3AACoAADGbBvgBMTPIFZ7W6zGKUx8RuMivec4RXUI"
+        },
+        {
+          "title": "Career Accelerator Program Manager",
+          "company": "UC Berkeley College of Computing, Data Science, and Society",
+          "duration": "Jan 2024 - May 2024 · 5 mos",
+          "start_date": {
+            "year": 2024,
+            "month": "Jan"
+          },
+          "end_date": {
+            "year": 2024,
+            "month": "May"
+          },
+          "is_current": false,
+          "company_linkedin_url": "https://www.linkedin.com/company/18571264/",
+          "company_logo_url": "https://media.licdn.com/dms/image/v2/D560BAQENG0S2ZrvPzA/company-logo_400_400/company-logo_400_400/0/1725472632440/computingdatasciencesociety_logo?e=1760572800&v=beta&t=JHRrgnaSd3NJbjbCxlAUDPouQWCRINHBm3MlbknJ28I",
+          "employment_type": "Part-time",
+          "company_id": "18571264"
+        },
+        {
+          "title": "Transfer Student Advisor",
+          "company": "UC Berkeley College of Computing, Data Science, and Society",
+          "duration": "Jan 2024 - May 2024 · 5 mos",
+          "start_date": {
+            "year": 2024,
+            "month": "Jan"
+          },
+          "end_date": {
+            "year": 2024,
+            "month": "May"
+          },
+          "is_current": false,
+          "company_linkedin_url": "https://www.linkedin.com/company/18571264/",
+          "company_logo_url": "https://media.licdn.com/dms/image/v2/D560BAQENG0S2ZrvPzA/company-logo_400_400/company-logo_400_400/0/1725472632440/computingdatasciencesociety_logo?e=1760572800&v=beta&t=JHRrgnaSd3NJbjbCxlAUDPouQWCRINHBm3MlbknJ28I",
+          "employment_type": "Part-time",
+          "company_id": "18571264"
+        },
+        {
+          "title": "Business Intelligence Engineer",
+          "company": "Amazon",
+          "location": "Bellevue, Washington, United States",
+          "duration": "May 2023 - Aug 2023 · 4 mos",
+          "start_date": {
+            "year": 2023,
+            "month": "May"
+          },
+          "end_date": {
+            "year": 2023,
+            "month": "Aug"
+          },
+          "is_current": false,
+          "company_linkedin_url": "https://www.linkedin.com/company/1586/",
+          "company_logo_url": "https://media.licdn.com/dms/image/v2/C560BAQHTvZwCx4p2Qg/company-logo_400_400/company-logo_400_400/0/1630640869849/amazon_logo?e=1760572800&v=beta&t=WHvHsjPob9OJN7h3bTTkiIfGDRO_MwdcfVB44pRrtjI",
+          "location_type": "On-site",
+          "skills": [
+            "Python (Programming Language)",
+            "Amazon Redshift"
+          ],
+          "company_id": "1586",
+          "skills_url": "https://www.linkedin.com/in/sid-srivastava-4488721b2/overlay/urn:li:fsd_profilePosition:(ACoAADGbBvgBMTPIFZ7W6zGKUx8RuMivec4RXUI,2185175148)/skill-associations-details?profileUrn=urn%3Ali%3Afsd_profile%3AACoAADGbBvgBMTPIFZ7W6zGKUx8RuMivec4RXUI"
+        }
+      ],
+      "education": [
+        {
+          "school": "University of California, Berkeley",
+          "degree": "Bachelor of Arts - BA, Data Science",
+          "degree_name": "Bachelor of Arts - BA",
+          "field_of_study": "Data Science",
+          "duration": "Aug 2020",
+          "school_linkedin_url": "https://www.linkedin.com/company/2517/",
+          "school_logo_url": "https://media.licdn.com/dms/image/v2/D560BAQGwjF_5CYj_JQ/company-logo_400_400/company-logo_400_400/0/1732135669731/uc_berkeley_logo?e=1760572800&v=beta&t=xGoIt5_3NPk6ShEb2RdPQ6paGqduN53PA6zepS8ZAqU",
+          "school_id": "2517"
+        }
+      ],
+      "projects": [
+        {
+          "name": "Sids Best Food Finds",
+          "description": "Aspiring Chef\nhttps://www.youtube.com/@sidsbestfoodfinds",
+          "is_current": false
+        }
+      ],
+      "certifications": [
+        {
+          "name": " SkyDeck ACE Intern Program",
+          "issuer": "Berkeley SkyDeck",
+          "issued_date": "Issued May 2022"
+        },
+        {
+          "name": "Learn the Basics of Regular Expressions Course",
+          "issuer": "Codecademy",
+          "issued_date": "Issued Feb 2022"
+        }
+      ]
+    }
+  },
+  "rash-roush": {
+    "success": true,
+    "message": "response retrieved successfully",
+    "data": {
+      "basic_info": {
+        "fullname": "Rasha A.",
+        "first_name": "Rasha",
+        "last_name": "A.",
+        "headline": "Senior Data Analyst at National Bank",
+        "public_identifier": "rash-roush",
+        "profile_url": "https://linkedin.com/in/rash-roush",
+        "profile_picture_url": "https://media.licdn.com/dms/image/v2/D4E03AQHwYpsquXov8g/profile-displayphoto-crop_800_800/B4EZkfmt0AKUAI-/0/1757171868332?e=1760572800&v=beta&t=e2FHAuzZwFzddMADhncGJrXS6JivJ7NKxj2fFcRspyI",
+        "about": "Grateful for my experiences in the work force. My goal is to obtain a position that will allow me to expand and improve career appropriate skills.",
+        "location": {
+          "country": "",
+          "city": "Canada",
+          "full": "Canada"
+        },
+        "creator_hashtags": [],
+        "is_creator": false,
+        "is_influencer": false,
+        "is_premium": false,
+        "created_timestamp": 1535033186898,
+        "show_follower_count": true,
+        "background_picture_url": "https://media.licdn.com/dms/image/v2/D4E16AQGCkpC3yXXLkw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1730494432330?e=1760572800&v=beta&t=gdfCChgTSkh2l9ZMpZB3G6-UlG8M5e8yJ8A-IFI4gIU",
+        "urn": "ACoAAChstKcBgdEq_A49_lrFQYcVxk-YUbTCw0M",
+        "follower_count": 1549,
+        "connection_count": 527,
+        "current_company": "National Bank Direct Brokerage",
+        "current_company_urn": "2670375",
+        "current_company_url": "https://www.linkedin.com/company/banque-nationale-courtage-direct",
+        "email": null
+      },
+      "experience": [
+        {
+          "title": "Senior Data Analyst",
+          "company": "National",
+          "location": "Montreal, Quebec, Canada",
+          "description": "Courtage Direct",
+          "duration": "Nov 2024 - Present · 11 mos",
+          "start_date": {
+            "year": 2024,
+            "month": "Nov"
+          },
+          "is_current": true,
+          "company_linkedin_url": "https://www.linkedin.com/company/2670375/",
+          "company_logo_url": "https://media.licdn.com/dms/image/v2/D4E0BAQFaO-gRKl2RFQ/company-logo_400_400/B4EZd5MQTSHcAg-/0/1750084945594/banque_nationale_courtage_direct_logo?e=1760572800&v=beta&t=kvrS29fyKuOTl1FWXY36-kxjUKLE9y52qk8KFgcSrnI",
+          "employment_type": "Bank Direct Brokerage",
+          "location_type": "Hybrid",
+          "skills": [
+            "SQL",
+            "Microsoft Power Apps"
+          ],
+          "company_id": "2670375",
+          "skills_url": "https://www.linkedin.com/in/rash-roush/overlay/urn:li:fsd_profilePosition:(ACoAAChstKcBgdEq_A49_lrFQYcVxk-YUbTCw0M,2509209588)/skill-associations-details?profileUrn=urn%3Ali%3Afsd_profile%3AACoAAChstKcBgdEq_A49_lrFQYcVxk-YUbTCw0M"
+        },
+        {
+          "title": "Business Analyst",
+          "company": "Ministère",
+          "location": "Québec, Quebec, Canada",
+          "duration": "Jun 2024 - Nov 2024 · 6 mos",
+          "start_date": {
+            "year": 2024,
+            "month": "Jun"
+          },
+          "end_date": {
+            "year": 2024,
+            "month": "Nov"
+          },
+          "is_current": false,
+          "company_linkedin_url": "https://www.linkedin.com/company/869536/",
+          "company_logo_url": "https://media.licdn.com/dms/image/v2/D4E0BAQEWxejZtql26A/company-logo_400_400/company-logo_400_400/0/1664823391840/mceqc_logo?e=1760572800&v=beta&t=c3dkD6QO8rVOmeJkXhH-hSjuEY2Z7cTn3PbyEzx2fEQ",
+          "employment_type": "du Conseil exécutif du Québec (MCE)",
+          "location_type": "Remote",
+          "skills": [
+            "DevOps"
+          ],
+          "company_id": "869536",
+          "skills_url": "https://www.linkedin.com/in/rash-roush/overlay/urn:li:fsd_profilePosition:(ACoAAChstKcBgdEq_A49_lrFQYcVxk-YUbTCw0M,2483424273)/skill-associations-details?profileUrn=urn%3Ali%3Afsd_profile%3AACoAAChstKcBgdEq_A49_lrFQYcVxk-YUbTCw0M"
+        },
+        {
+          "title": "Tutor & HR Affairs",
+          "company": "Tutorats.com",
+          "location": "Hybrid",
+          "duration": "Oct 2022 - Apr 2024 · 1 yr 7 mos",
+          "start_date": {
+            "year": 2022,
+            "month": "Oct"
+          },
+          "end_date": {
+            "year": 2024,
+            "month": "Apr"
+          },
+          "is_current": false,
+          "company_linkedin_url": "https://www.linkedin.com/company/72020512/",
+          "company_logo_url": "https://media.licdn.com/dms/image/v2/D560BAQHKA7gGBjf6Bw/company-logo_400_400/B56ZVUAL0hGoAY-/0/1740871089762/tutorats_logo?e=1760572800&v=beta&t=WBGgc8W6hVzVhtV7IVWWPeIkrbe389sQAUt1zLCyj1Y",
+          "skills": [
+            "Microsoft Office"
+          ],
+          "company_id": "72020512",
+          "skills_url": "https://www.linkedin.com/in/rash-roush/overlay/urn:li:fsd_profilePosition:(ACoAAChstKcBgdEq_A49_lrFQYcVxk-YUbTCw0M,2330298371)/skill-associations-details?profileUrn=urn%3Ali%3Afsd_profile%3AACoAAChstKcBgdEq_A49_lrFQYcVxk-YUbTCw0M"
+        },
+        {
+          "title": "Business Intelligence Analyst",
+          "company": "BOMBARDIER",
+          "description": "▪ Developed and maintained advanced dashboards using Power BI to enhance decision-making processes by 80%\nthrough improved data visualization.\n▪ Utilized tools such as CSV, SAP, VBA, Zendesk, and Excel daily to extract and analyze data, reducing report generation time by 40%.\n▪ Managed over 10 project workflows for various teams across the organization using Microsoft Planner, ensuring efficient task completion and optimal team alignment to achieve milestone goals.\n▪ Trained five new recruits, created, and delivered training videos, significantly enhancing employee onboarding and ongoing education.",
+          "duration": "Jan 2023 - May 2023 · 5 mos",
+          "start_date": {
+            "year": 2023,
+            "month": "Jan"
+          },
+          "end_date": {
+            "year": 2023,
+            "month": "May"
+          },
+          "is_current": false,
+          "company_linkedin_url": "https://www.linkedin.com/company/2723/",
+          "company_logo_url": "https://media.licdn.com/dms/image/v2/D4D0BAQHFre9L1IbnyA/company-logo_400_400/company-logo_400_400/0/1713990496093/bombardier_logo?e=1760572800&v=beta&t=_G4cSW-vF-uVRbEGGau7IIEYIrHfjYPt5OXg426WVU4",
+          "company_id": "2723"
+        },
+        {
+          "title": "Data Analyst",
+          "company": "BOMBARDIER",
+          "description": "▪ Analyzed complex data sets to drive project initiatives, resulting in a 10% increase in project delivery efficiency.\n▪ Employed DAX and SQL for detailed data manipulation and report generation, enhancing data accuracy by 15%.\n▪ Gained hands-on experience with SAP BI tools, including data modeling and reporting.",
+          "duration": "May 2022 - Dec 2022 · 8 mos",
+          "start_date": {
+            "year": 2022,
+            "month": "May"
+          },
+          "end_date": {
+            "year": 2022,
+            "month": "Dec"
+          },
+          "is_current": false,
+          "company_linkedin_url": "https://www.linkedin.com/company/2723/",
+          "company_logo_url": "https://media.licdn.com/dms/image/v2/D4D0BAQHFre9L1IbnyA/company-logo_400_400/company-logo_400_400/0/1713990496093/bombardier_logo?e=1760572800&v=beta&t=_G4cSW-vF-uVRbEGGau7IIEYIrHfjYPt5OXg426WVU4",
+          "company_id": "2723"
+        },
+        {
+          "title": "Information Technology Desktop Support",
+          "company": "Immigration,",
+          "location": "Ottawa, Ontario, Canada",
+          "description": "▪ Provided comprehensive desktop support, troubleshooting hardware and software issues, reducing downtime by\n20%.\n▪ Created and managed tickets for various issues such as cyberattacks, outages, and permissions, improving resolution time by 25%.\n▪ Collaborated with cross-functional teams to resolve technical issues, ensuring smooth IT operations.",
+          "duration": "May 2021 - May 2022 · 1 yr 1 mo",
+          "start_date": {
+            "year": 2021,
+            "month": "May"
+          },
+          "end_date": {
+            "year": 2022,
+            "month": "May"
+          },
+          "is_current": false,
+          "company_linkedin_url": "https://www.linkedin.com/company/1584/",
+          "company_logo_url": "https://media.licdn.com/dms/image/v2/C560BAQH7JTX_BBFFgQ/company-logo_400_400/company-logo_400_400/0/1630582762693/citizenship_and_immigration_canada_logo?e=1760572800&v=beta&t=nmF3i4Ta8wdmAKUCvyPRaRtDdyGL6ADOxQmb3RIDXm0",
+          "employment_type": "Refugees and Citizenship Canada / Immigration, Réfugiés et Citoyenneté Canada",
+          "skills": [
+            "Microsoft Office"
+          ],
+          "company_id": "1584",
+          "skills_url": "https://www.linkedin.com/in/rash-roush/overlay/urn:li:fsd_profilePosition:(ACoAAChstKcBgdEq_A49_lrFQYcVxk-YUbTCw0M,1785303471)/skill-associations-details?profileUrn=urn%3Ali%3Afsd_profile%3AACoAAChstKcBgdEq_A49_lrFQYcVxk-YUbTCw0M"
+        }
+      ],
+      "education": [
+        {
+          "school": "Concordia University",
+          "degree": "Master of Science - MS, Business Analytics and Technology Management",
+          "degree_name": "Master of Science - MS",
+          "field_of_study": "Business Analytics and Technology Management",
+          "duration": "Jan 2025",
+          "school_linkedin_url": "https://www.linkedin.com/company/163191/",
+          "school_logo_url": "https://media.licdn.com/dms/image/v2/D4E0BAQGYfVVygRuGfQ/company-logo_400_400/company-logo_400_400/0/1719257371250/concordia_university_logo?e=1760572800&v=beta&t=BBF3r6iU0zMT80HWZG3P2Q-7gFMeX4z10eCnh12H1rM",
+          "school_id": "163191"
+        },
+        {
+          "school": "Concordia University",
+          "degree": "Bachelor of Commerce - BCom, Business Technology Management (BTM) - COOP",
+          "degree_name": "Bachelor of Commerce - BCom",
+          "field_of_study": "Business Technology Management (BTM) - COOP",
+          "duration": "Sep 2021 - Jun 2024",
+          "school_linkedin_url": "https://www.linkedin.com/company/163191/",
+          "activities": "-COOP student",
+          "school_logo_url": "https://media.licdn.com/dms/image/v2/D4E0BAQGYfVVygRuGfQ/company-logo_400_400/company-logo_400_400/0/1719257371250/concordia_university_logo?e=1760572800&v=beta&t=BBF3r6iU0zMT80HWZG3P2Q-7gFMeX4z10eCnh12H1rM",
+          "start_date": {
+            "year": 2021,
+            "month": "Sep"
+          },
+          "end_date": {
+            "year": 2024,
+            "month": "Jun"
+          },
+          "school_id": "163191"
+        }
+      ]
+    }
+  },
+  "makenna-hale": {
+    "success": true,
+    "message": "response retrieved successfully",
+    "data": {
+      "basic_info": {
+        "fullname": "Makenna Hale",
+        "first_name": "Makenna",
+        "last_name": "Hale",
+        "headline": "Business Intelligence Analyst",
+        "public_identifier": "makenna-hale",
+        "profile_url": "https://linkedin.com/in/makenna-hale",
+        "profile_picture_url": "https://media.licdn.com/dms/image/v2/D5603AQHGx5TOEOPkXQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1665370307318?e=1760572800&v=beta&t=eGTIn60s9Co8tALOmkf2IkpFOQTxqHFKtsYxi0yv57E",
+        "about": "I just finished my time at Ohio University gaining a Masters of Sport Administration as a part of Ohio University's dual degree program. I also just accomplished Business Analytics certificate and just received my Master's of Business Administration. Previously, I've obtained a bachelor’s degree in Sport Management with a minor in Business Analytics, Finance, and Marketing while also working on an Entrepreneurship certificate and a Festivals, Events, & Entertainment Management Certificate. I am highly engaged in my university and passionate about my degree. Throughout my time at Ohio University I have enhanced my data analytics skills and have a passion for strategy and insights. My skills will only continue to grow as I learn to consult, manage, and work with others in order to accomplish goals set.\n\nMy current role as a Business Intelligence Analyst with TPG will allow me to dig deeper into insights that impact high school sports and their communities to make a big impact in the sport industry. I am excited for this opportunity to learn and grow under amazing leadership as I get further into this new role.",
+        "location": {
+          "country": "United States",
+          "city": "Athens, Ohio",
+          "full": "Athens, Ohio, United States",
+          "country_code": "US"
+        },
+        "creator_hashtags": [],
+        "is_creator": false,
+        "is_influencer": false,
+        "is_premium": false,
+        "created_timestamp": 1574382625463,
+        "show_follower_count": false,
+        "background_picture_url": "https://media.licdn.com/dms/image/v2/C4E16AQFpH72EsxiWEA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1574456936664?e=1760572800&v=beta&t=Wbj5YEfQZPFFm7OeimWpNz63HK8FsH1lPHq3BSRe9pM",
+        "urn": "ACoAAC5d3jgBwoVwlY60ZGsPXbd2LY7XbhUvGC4",
+        "follower_count": 1215,
+        "connection_count": 1206,
+        "current_company": "TPG",
+        "current_company_urn": "51733382",
+        "current_company_url": "https://www.linkedin.com/company/tpg1",
+        "email": null
+      },
+      "experience": [
+        {
+          "title": "Business Intelligence Analyst",
+          "company": "TPG",
+          "location": "Winston-Salem, North Carolina, United States",
+          "duration": "Jun 2025 - Present · 4 mos",
+          "start_date": {
+            "year": 2025,
+            "month": "Jun"
+          },
+          "is_current": true,
+          "company_linkedin_url": "https://www.linkedin.com/company/51733382/",
+          "company_logo_url": "https://media.licdn.com/dms/image/v2/C4E0BAQEa2A0PQhFa_w/company-logo_400_400/company-logo_400_400/0/1630606279642?e=1760572800&v=beta&t=vLecYeyDgEUKL773NWEMmUx0rmUaT0abgk-9Dq68g6I",
+          "company_id": "51733382"
+        },
+        {
+          "title": "Data Analysis and Tableau Reporting Internship/GA",
+          "company": "MCB Partnerships and Consulting",
+          "duration": "Aug 2023 - Jun 2025 · 1 yr 11 mos",
+          "start_date": {
+            "year": 2023,
+            "month": "Aug"
+          },
+          "end_date": {
+            "year": 2025,
+            "month": "Jun"
+          },
+          "is_current": false,
+          "company_linkedin_url": "https://www.linkedin.com/search/results/all/?keywords=MCB+Partnerships+and+Consulting"
+        },
+        {
+          "title": "Server",
+          "company": "Hudson",
+          "location": "New Albany Ohio ",
+          "description": "- Organized guest reservations and special events\n- Resolved customer complaints \n- Trained new employees\n-Calculated daily sales and tips\n",
+          "duration": "Feb 2019 - Jun 2024 · 5 yrs 5 mos",
+          "start_date": {
+            "year": 2019,
+            "month": "Feb"
+          },
+          "end_date": {
+            "year": 2024,
+            "month": "Jun"
+          },
+          "is_current": false,
+          "company_linkedin_url": "https://www.linkedin.com/search/results/all/?keywords=Hudson+29",
+          "employment_type": "29"
+        },
+        {
+          "title": "Travel and Event Coordinator",
+          "company": "OHIO Hockey",
+          "duration": "Aug 2019 - May 2023 · 3 yrs 10 mos",
+          "start_date": {
+            "year": 2019,
+            "month": "Aug"
+          },
+          "end_date": {
+            "year": 2023,
+            "month": "May"
+          },
+          "is_current": false,
+          "company_linkedin_url": "https://www.linkedin.com/search/results/all/?keywords=OHIO+Hockey"
+        },
+        {
+          "title": "Barista",
+          "company": "Hot",
+          "location": "Johnstown, Ohio",
+          "description": "- Organized scheduling for all staff\n- Publicized company specials and deals to gain more buyers\n- Promoted company at local town events \n- Trained new employees\n- Maintain records of daily sales\n",
+          "duration": "May 2016 - Aug 2019 · 3 yrs 4 mos",
+          "start_date": {
+            "year": 2016,
+            "month": "May"
+          },
+          "end_date": {
+            "year": 2019,
+            "month": "Aug"
+          },
+          "is_current": false,
+          "company_linkedin_url": "https://www.linkedin.com/search/results/all/?keywords=Hot+Spot+Coffee+House",
+          "employment_type": "Spot Coffee House"
+        }
+      ],
+      "education": [
+        {
+          "school": "Ohio University",
+          "degree": "Master's degree, Business Administration",
+          "degree_name": "Master's degree",
+          "field_of_study": "Business Administration",
+          "duration": "Aug 2023 - Jul 2024",
+          "school_linkedin_url": "https://www.linkedin.com/company/6382/",
+          "school_logo_url": "https://media.licdn.com/dms/image/v2/D560BAQEnkI437Dx9Iw/company-logo_400_400/company-logo_400_400/0/1701182664999/ohio_university_logo?e=1760572800&v=beta&t=F7mhJ79ql1I4OoNxpFuxWxRofXFjQKBNYJf9VZ8s-N8",
+          "start_date": {
+            "year": 2023,
+            "month": "Aug"
+          },
+          "end_date": {
+            "year": 2024,
+            "month": "Jul"
+          },
+          "school_id": "6382"
+        },
+        {
+          "school": "Ohio University",
+          "degree": "Bachelor's degree, Sport and Fitness Administration/Management",
+          "degree_name": "Bachelor's degree",
+          "field_of_study": "Sport and Fitness Administration/Management",
+          "duration": "2019 - 2023",
+          "school_linkedin_url": "https://www.linkedin.com/company/6382/",
+          "school_logo_url": "https://media.licdn.com/dms/image/v2/D560BAQEnkI437Dx9Iw/company-logo_400_400/company-logo_400_400/0/1701182664999/ohio_university_logo?e=1760572800&v=beta&t=F7mhJ79ql1I4OoNxpFuxWxRofXFjQKBNYJf9VZ8s-N8",
+          "start_date": {
+            "year": 2019
+          },
+          "end_date": {
+            "year": 2023
+          },
+          "school_id": "6382"
+        }
+      ]
+    }
+  }
+}
