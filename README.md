@@ -3,8 +3,11 @@ Automated the process of collecting LinkedIn user profiles based on roles
 
 ## Data Collection
 Users working in Tech, Consulting and Entrepreneurship, located in North American region.
+
 Based on the profile scoring, the top 3 users are considered for all roles.
+
 Then the user profiles are saved in a csv file as:
+
 username, name, location, category, role, url
 
 ### Working with automation script
